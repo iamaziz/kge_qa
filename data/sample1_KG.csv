@@ -1,0 +1,12 @@
+h,r,t
+titanic,directed_by,james cameron
+james cameron,director,titanic
+tom cruise,played_in,top_gun
+james cameron,director,avatar
+top_gun,cast,tom cruise
+tom cruise,played_in,mission impossible
+lisp,influenced,python
+lisp,influenced,javascript
+new york,located_in,usa
+riyadh,located_in,saudi arabia
+darth vader,be a character in,star wars movie
