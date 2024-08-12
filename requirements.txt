@@ -1,5 +1,5 @@
 pymagnitude==0.1.120
-streamlit==0.45.0
+streamlit==1.37.0
 pandas==0.25.3 # to scale, check out "modin" package
 # below are used only for visualizing the embeddings in streamlit
 matplotlib==3.1.2 # graph
